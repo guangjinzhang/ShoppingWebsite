@@ -1,2 +1,2 @@
 # ShoppingWebsite
-A website for  shopping
+A website designed with java that allowing users to shop online.
